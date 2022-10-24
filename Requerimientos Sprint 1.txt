@@ -1,0 +1,9 @@
+Ciclo 4
+
+Requerimientos Sprint 1:
+- Repositorio GitHub. ✔
+- Gestión de la configuración. ✔
+- Product Backlog. ✔
+- Historias de usuario desarrolladas en el Sprint 1. ✔
+- Informe de Retrospectiva. ✔
+- Sprint Backlog del siguiente Sprint (Trello). ✔
